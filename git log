@@ -1,0 +1,41 @@
+[33mcommit 37ee685ff153940772b5e78fd59eeb4eaebda787[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nurul Arifin <nurularifin837@gmail.com>
+Date:   Thu Jun 23 18:21:00 2022 +0700
+
+    Fixed slider bug
+
+[33mcommit b799c817715ed252d46cb671ec99346785f45ef3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nurul Arifin <77090543+nurularifin837@users.noreply.github.com>
+Date:   Sat Jun 18 13:50:51 2022 +0700
+
+    Make an Carousel index.html and also put some code on style and min.js
+
+[33mcommit 29b4626fd8ef475511728a3f62c0f235a76ca74e[m
+Author: nurularifin83 <nurularifin837@gmail.com>
+Date:   Fri Jun 17 18:04:54 2022 +0700
+
+    Make footer for first column from fourth column
+
+[33mcommit dc97aef48807f05f0a43dcfa5aa4c56c7bb53f18[m
+Author: nurularifin83 <nurularifin837@gmail.com>
+Date:   Fri Jun 17 15:38:17 2022 +0700
+
+    Complete navbar
+
+[33mcommit 09e8450a245f0bc2f94c3488ed4e677a493c28c3[m
+Author: nurularifin83 <nurularifin837@gmail.com>
+Date:   Fri Jun 17 14:58:22 2022 +0700
+
+    make spinner, navbar, then style.css and also main.js
+
+[33mcommit 58cd48ee4fa800ee088057c0ec08222c0278106f[m
+Author: nurularifin83 <nurularifin837@gmail.com>
+Date:   Thu Jun 16 22:56:20 2022 +0700
+
+    add file .gitignore
+
+[33mcommit 460273307ccff643eea076b6326403ab8f6ff166[m
+Author: nurularifin83 <nurularifin837@gmail.com>
+Date:   Thu Jun 16 22:26:50 2022 +0700
+
+    Make header, footer, and navbar for Index.html
